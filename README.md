@@ -1,0 +1,1 @@
+This repository demonstrates a common Lua programming error: unexpected nil values causing abrupt program termination. The `bug.lua` file shows the erroneous code, while `bugSolution.lua` provides a corrected version with improved error handling.  The solution demonstrates how to gracefully handle nil values to prevent program crashes.
